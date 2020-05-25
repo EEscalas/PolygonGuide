@@ -1,4 +1,5 @@
-# How to Create a Competitive Programming Contest Problem using Polygon
+# Creating Competitive Programming Contest Problems
+## A guide for creating Codeforces problems on Polygon
 
 The problem creator generates test case inputs using a **test case script**, **generator**, and (optional) **validator**. When a contest participant submits his or her solution, a **checker** can be used to verify if their program's output has valid syntax. Polygon then compares the output of the submitted solution with that of the **solution file** for each of the test case inputs to see if they match, and see if the submitted solution is within the time and memory limits. 
 
